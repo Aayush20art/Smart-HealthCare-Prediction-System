@@ -1,28 +1,21 @@
-<div align="center">
+# 🏥 Smart Healthcare Prediction System
+
+### *AI-Powered Clinical Decision Support with Explainable Machine Learning*
+
+<em>A multi-module Streamlit application that brings ML-driven health risk assessment, medical NLP, and SHAP explainability into a single clinical-grade interface.</em>
 
 <br/>
 
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit%20Cloud-FF4B4B?style=for-the-badge)](https://smart-healthcare-prediction-system-jni2e7swd9ejwje4gpqvct.streamlit.app/)
 <img src="https://img.shields.io/badge/Python-3.9%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/SHAP-XAI-00D4FF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/License-MIT-34D399?style=for-the-badge" />
 
-<br/><br/>
-
-# 🏥 Smart Healthcare Prediction System
-
-### *AI-Powered Clinical Decision Support with Explainable Machine Learning*
-
-<p align="center">
-  <em>A multi-module Streamlit application that brings ML-driven health risk assessment, medical NLP, and SHAP explainability into a single clinical-grade interface.</em>
-</p>
-
 <br/>
 
 ---
-
-</div>
 
 <br/>
 
